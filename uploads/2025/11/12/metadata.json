@@ -1,0 +1,66 @@
+{
+  "youtube": {
+    "snippet": {
+      "title": "Same News, Opposite Spin: Trump's Presidential Pardon Powers Debate",
+      "description": "Fox viewers learned about Democratic divisions over eliminating presidential pardons. MSNBC viewers heard about threats to democracy and election interference.\n\nFox emphasized internal party disagreements, featuring House Democrats debating whether to preserve clemency powers after Senator Slotkin's proposal. MSNBC framed Trump's pardons of January 6 participants and crypto executive Changpeng Zhao as dangerous precedent encouraging future interference.\n\nWhich framing better serves public understanding of presidential pardon authority?\n\nExplore more media comparisons: https://echoandchamber.com/analysis?utm_source=youtube&utm_medium=shorts&utm_campaign=pardon_powers",
+      "tags": [
+        "Echo and Chamber",
+        "media bias",
+        "news comparison",
+        "Fox News",
+        "MSNBC",
+        "Trump pardons",
+        "Elissa Slotkin",
+        "Changpeng Zhao",
+        "presidential powers",
+        "January 6",
+        "Binance CEO",
+        "clemency reform",
+        "government",
+        "politics",
+        "democracy",
+        "election interference",
+        "constitutional powers",
+        "media literacy"
+      ],
+      "categoryId": "25",
+      "defaultLanguage": "en",
+      "defaultAudioLanguage": "en"
+    },
+    "status": {
+      "privacyStatus": "public",
+      "selfDeclaredMadeForKids": false,
+      "license": "youtube"
+    },
+    "metadata_version": "template-3",
+    "generation_date": "2024-12-19"
+  },
+  "tiktok": "",
+  "instagram": {
+    "caption": "⚖️ Same presidential pardons, completely different stories told\n\nFox: Democrats divided over Senator Slotkin's proposal to eliminate pardon powers entirely\nMSNBC: Trump's pardons create dangerous precedent encouraging election interference\n\nDoes focusing on party divisions vs democratic threats change how you view the debate?\n\nFollow @echo_and_chamber for daily side-by-side Fox vs MSNBC comparisons.",
+    "hashtags": [
+      "medialiteracy",
+      "newscomparison",
+      "DidYouKnow"
+    ],
+    "thumb_offset_seconds": 2.75,
+    "share_to_feed": true,
+    "enable_reel": true,
+    "enable_post": true
+  },
+  "video_content": {
+    "fox_headline": "Dem senator divides party over controversial pardon proposal: 'I don’t think it makes sense'",
+    "msnbc_headline": "Trump’s pardons give a green light to election interference",
+    "event_headline": "Trump's Presidential Pardon Powers Debate",
+    "event_headline_spicy": "Trump Pardons Spark Bipartisan Calls To Eliminate Presidential Clemency",
+    "event_summary": "President Trump's recent pardons, including cryptocurrency executive Changpeng Zhao, prompted Democratic Senator Elissa Slotkin to call for eliminating presidential pardon powers entirely.",
+    "event_description": "Senator Elissa Slotkin of Michigan proposed ending presidential pardons after Trump pardoned Changpeng Zhao, former Binance CEO convicted of facilitating money laundering who had invested in Trump's family crypto venture. Slotkin criticized pardons by both parties, stating the power \"doesn't make sense in the modern world.\"\n\nThe proposal divided Democrats, with House Judiciary Committee members split on whether to eliminate or reform clemency powers. Trump's broader pardon actions last week included dozens of allies involved in challenging 2020 election results and January 6 Capitol participants, reigniting debates about presidential clemency authority.",
+    "fox_coverage": "Focused on Democratic divisions over Slotkin's proposal to eliminate presidential pardon powers entirely.",
+    "msnbc_coverage": "Framed Trump's pardons as dangerous precedent encouraging election interference and undermining democratic institutions.",
+    "fox_url": "https://www.foxnews.com/politics/dem-senator-divides-party-over-controversial-pardon-proposal",
+    "msnbc_url": "https://www.ms.now/opinion/msnbc-opinion/trump-2020-election-pardons-michigan-interference-rcna244664",
+    "coverage_comparison": "Fox emphasized internal Democratic disagreements about eliminating presidential pardons, featuring extensive quotes from House Democrats debating whether to abolish or preserve clemency powers. The network highlighted Slotkin's bipartisan criticism while showcasing lawmakers like Jamie Raskin defending \"the power of clemency and mercy.\"\n\nMSNBC portrayed the pardons as a threat to democracy, with Michigan Secretary of State Jocelyn Benson warning of \"one justice system for those who do Trump's bidding and another for the rest of us.\" The network connected the pardons to ongoing election conspiracy theories and emphasized their potential to encourage future interference.",
+    "coverage_comparison_fox_first": "Fox emphasized internal Democratic disagreements about eliminating presidential pardons, featuring extensive quotes from House Democrats debating whether to abolish or preserve clemency powers. The network highlighted Slotkin's bipartisan criticism while showcasing lawmakers like Jamie Raskin defending \"the power of clemency and mercy.\"\n\nMSNBC portrayed the pardons as a threat to democracy, with Michigan Secretary of State Jocelyn Benson warning of \"one justice system for those who do Trump's bidding and another for the rest of us.\" The network connected the pardons to ongoing election conspiracy theories and emphasized their potential to encourage future interference.",
+    "coverage_comparison_msnbc_first": "MSNBC characterized Trump's pardons as enabling election interference and creating dangerous precedents for democracy. The network featured Michigan officials warning about threats to democratic institutions and highlighted how the pardons were already encouraging conspiracy theories among state Republicans.\n\nFox concentrated on the political divisions within the Democratic Party over Slotkin's proposal to eliminate presidential pardons. The coverage emphasized legislative debates about clemency reform, featuring Democrats arguing both for abolishing the power and preserving it as an essential check on the justice system."
+  }
+}

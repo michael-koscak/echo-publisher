@@ -1,0 +1,20 @@
+{
+  "snippet": {
+    "title": "", 
+    "description": "",
+    "tags": [
+      "news",
+      "politics",
+      "echo and chamber"
+    ],
+    "categoryId": "25",
+    "defaultLanguage": "en",
+    "defaultAudioLanguage": "en"
+  },
+  "status": {
+    "privacyStatus": "public",
+    "selfDeclaredMadeForKids": false,
+    "license": "youtube"
+  }
+}
+
